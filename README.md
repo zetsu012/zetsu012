@@ -1,188 +1,255 @@
-# 🌸 Welcome to my digital dojo
-
 <div align="center">
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Ankit+Chhetri+%E2%9C%A8;Software+Alchemist;AI+Tool+Craftsman;Building+Tomorrow%2C+Today" alt="Typing SVG" />
 
+# ⚡ ANKIT CHHETRI
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║        █████╗ ██╗    ████████╗ ██████╗  ██████╗ ██╗     ║
+║       ██╔══██╗██║    ╚══██╔══╝██╔═══██╗██╔═══██╗██║     ║
+║       ███████║██║       ██║   ██║   ██║██║   ██║██║     ║
+║       ██╔══██║██║       ██║   ██║   ██║██║   ██║██║     ║
+║       ██║  ██║██║       ██║   ╚██████╔╝╚██████╔╝███████╗ ║
+║       ╚═╝  ╚═╝╚═╝       ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝ ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
 ```
-     ╭─────────────────────────╮
-     │    🎌 Digital Nomad     │
-     │      @ WebMD 🏥         │ 
-     │   🇮🇳 Based in India     │
-     ╰─────────────────────────╯
-```
+
+**`Associate Software Engineer @ WebMD`** | **`AI Tool Architect`** | **`Automation Enthusiast`**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chhetriankit)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zetsu012)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitchhetri712@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=zetsu012&color=blueviolet&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🎭 About This Character
+## 🎯 MISSION STATEMENT
 
-<div align="center">
-
-*A curious soul wandering through the digital realm, crafting AI-powered solutions like a modern-day wizard*
-
-</div>
-
-Hey! I'm **Ankit** - a software engineer who believes in the magic of automation ✨
-
-Instead of just watching the AI revolution happen, I prefer to **build, break, and rebuild** things until they work perfectly. My journey started with simple curiosity but evolved into a quest to automate everything that bothers me in daily life.
-
-<div align="center">
-
-```ascii
-    🌙                                               ⭐
-       🌸    "Code is poetry in motion"    🌸
-                                                  ✨
+```typescript
+const ankitChhetri = {
+    role: "Software Engineer",
+    experience: "1.5 years",
+    location: "India 🇮🇳",
+    mission: "Automate everything. Build AI-powered solutions. Make developers' lives easier.",
+    currentFocus: [
+        "AI-Powered Development Tools",
+        "SDLC Automation",
+        "Developer Productivity Enhancement"
+    ],
+    impact: "40% increase in internal developer efficiency"
+};
 ```
 
-</div>
-
-## 🎨 My Arsenal
-
 <div align="center">
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### 💭 Philosophy
+*"If it can be automated, it should be automated. If it bothers you, build a tool to fix it."*
 
 </div>
 
-<div align="center">
+---
 
-```
-╭─── My Coding Philosophy ───╮
-│                            │
-│  🎯 Hands-on First         │
-│  🧠 Learn Architecture     │  
-│  🛠️  Solve Real Problems   │
-│  🔄 Repeat & Refine        │
-│                            │
-╰────────────────────────────╯
-```
-
-</div>
-
-## 🌟 Current Quests
+## 🚀 CURRENT PROJECTS AT WEBMD
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%">
 
-### 🤖 AI Agents
-*Building the future of autonomous systems*
-
-Creating centralized AI agent networks using protocols like **A2A** and **ACP**
+### 🔮 AI-Powered IDE
+```yaml
+status: In Development
+tech: [VSCode Extension, Cline Fork, Vue.js]
+features:
+  - Custom proprietary workflow
+  - Agile story integration
+  - AI-driven code generation
+  - Complete SDLC automation
+goal: "Planning → Development → Deployment"
+```
 
 </td>
-<td width="33%" align="center">
+<td width="50%">
 
-### 🕸️ Knowledge Graphs
-*Making AI truly understand context*
-
-Crafting RAG systems that think like humans, not just match keywords
-
-</td>
-<td width="33%" align="center">
-
-### ⚙️ SDLC Magic
-*Automating the entire development cycle*
-
-From planning to deployment - because manual work is for muggles
+### 📝 Agile Story Generator
+```yaml
+status: Production
+tech: [Vue 3, FastAPI, Python]
+features:
+  - Web-based ticket generation
+  - Automated user story drafting
+  - Streamlined workflow
+  - Product team integration
+impact: "Automated story creation for teams"
+```
 
 </td>
 </tr>
 </table>
 
+---
+
+## 💻 TECH STACK
+
 <div align="center">
 
-```
-     🌸 ─── Currently Exploring ─── 🌸
-     
-     ✨ AI limitations & creative solutions
-     🎯 Daily automation tools  
-     🔮 The art of prompt engineering
-     🌙 Building practical magic
-```
+### Frontend Arsenal
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend Arsenal
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Tools & Specialties
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode Extensions](https://img.shields.io/badge/VSCode%20Extensions-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-## 🎪 Featured Creation
+---
+
+## 🎓 EXPERIENCE TIMELINE
+
+```mermaid
+timeline
+    title Professional Journey
+    2023-05 : Research Intern @ NIT Raipur
+           : Transformer Models & Sentiment Analysis
+    2024-01 : Full Stack Developer Intern @ NIC
+           : Angular + Django Development
+    2024-08 : Associate Software Engineer @ WebMD
+           : AI Tools & Automation
+```
+
+<details>
+<summary><b>📊 Detailed Experience</b></summary>
+
+### 🏥 WebMD - Associate Software Engineer
+**August 2024 - Present**
+- Developed AI-powered tools increasing developer efficiency by 40%
+- Built AI code editor with Vue.js and FastAPI
+- Created agile story generation platform
+- Forked and customized VSCode with proprietary features
+- Integrated A2A and ACP protocols for AI agent networks
+
+### 🏛️ National Informatics Centre - Full Stack Developer Intern
+**January 2024 - May 2024**
+- Developed eService web application with Angular
+- Implemented Django backend with token-based authentication
+- Collaborated with teams on service requirements
+
+### 🔬 NIT Raipur - Research Intern
+**May 2023 - June 2023**
+- Led comparative analysis on transformer models
+- Fine-tuned models for sentiment analysis
+- Contributed to research paper publication
+
+</details>
+
+---
+
+## 🌟 FEATURED PROJECT
 
 <div align="center">
 
 ### 📰 [newsWrapper](https://github.com/zetsu012/newsWrapper)
 
-<img width="400" alt="newsWrapper Demo" src="https://user-images.githubusercontent.com/placeholder.gif">
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  Problem: Reading AI news on mobile was inefficient    │
+│     ↓                                                   │
+│  Solution: Built an API aggregator                     │
+│     ↓                                                   │
+│  Result: Daily AI insights via WhatsApp ☕             │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-*"Born from the frustration of reading AI news on my phone"*
+**Tech Stack:** Python | News APIs | WhatsApp Integration
 
 </div>
 
-**The Story:** Reading AI articles on my phone felt inefficient and boring
+---
 
-**The Magic:** An API that fetches news from multiple sources and formats them perfectly for WhatsApp
+## 🎯 CURRENT EXPLORATION
 
-**The Result:** Daily AI insights delivered like morning coffee ☕
+<div align="center">
+
+| 🤖 AI Agents | 🕸️ Knowledge Graphs | ⚙️ SDLC Automation |
+|:---:|:---:|:---:|
+| Building centralized AI agent networks using A2A & ACP protocols | Crafting RAG systems with contextual understanding | Automating complete development cycles from planning to deployment |
+
+</div>
+
+---
+
+## 📊 GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zetsu012&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_radius=10" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zetsu012&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F&border_radius=10" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetsu012&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&border_radius=10" />
+
+</div>
+
+---
+
+## 🎓 EDUCATION
+
+```
+📚 Sikkim Manipal Institute of Technology
+   B.Tech in Information Technology
+   CGPA: 8.6/10.0
+   2020 - 2024
+```
+
+---
+
+## 🤝 LET'S COLLABORATE
 
 <div align="center">
 
 ```
-Problem → Solution → Automation
-   🤔  →     💡    →      ✨
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║  💡 Open to discussing:                          ║
+║     • AI-powered automation projects             ║
+║     • Developer productivity tools               ║
+║     • Knowledge sharing & mentorship             ║
+║     • Building innovative solutions together     ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
-</div>
+### 📫 Reach Me
 
-## 📊 Stats & Achievements
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zetsu012&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff6b9d&text_color=ffffff&icon_color=ff6b9d" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zetsu012&theme=synthwave&hide_border=true&background=0d1117&stroke=ff6b9d&ring=ff6b9d&fire=ff6b9d&currStreakLabel=ff6b9d" />
-
-</div>
-
-<div align="center">
-
-```
-    🌟 ─── Achievement Unlocked ─── 🌟
-    
-         1 Year @ WebMD Complete!
-        Building AI Tools Daily Quest
-       Automation Enthusiast Badge
-      Problem Solver Extraordinaire
-```
-
-</div>
-
-## 🌙 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/chhetriankit">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ff6b9d&color=ff6b9d" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/zetsu012">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=ff6b9d&color=ff6b9d" alt="GitHub"/>
-</a>
-
-</div>
-
-<div align="center">
-
-```
-       🌸 ─── Always Open To ─── 🌸
-       
-       🤝 Collaborating on AI projects
-       💡 Discussing automation ideas  
-       🎯 Sharing knowledge & experiences
-       ✨ Building something amazing together
-```
+[![Email](https://img.shields.io/badge/Email-ankitchhetri712%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ankitchhetri712@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Chhetri-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chhetriankit)
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209474835712-green?style=for-the-badge&logo=whatsapp)](tel:+919474835712)
 
 </div>
 
@@ -190,23 +257,18 @@ Problem → Solution → Automation
 
 <div align="center">
 
-### 🎭 Life Philosophy
+### 💫 Core Beliefs
 
-*"In a world full of manual tasks, be the automation wizard who makes life magical"*
-
-**🌟 Stay curious. Build solutions. Automate everything. 🌟**
-
-<img src="https://komarev.com/ghpvc/?username=zetsu012&color=ff6b9d&style=flat-square&label=Visitors" alt="Profile Views" />
-
-</div>
-
-<div align="center">
+**`Automate Everything`** • **`Build Solutions`** • **`Stay Curious`** • **`Share Knowledge`**
 
 ```
-    ╭─────────────────────────────────╮
-    │  Thanks for visiting my dojo!   │
-    │        🌸 ✨ 🌙 ⭐ 🌸          │  
-    ╰─────────────────────────────────╯
+"In a world of manual tasks, be the wizard who makes life magical through code"
 ```
+
+---
+
+⭐ **Thanks for visiting!** ⭐
+
+*If you find my work interesting, consider starring some repositories!*
 
 </div>
